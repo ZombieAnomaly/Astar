@@ -1,4 +1,7 @@
 # Astar
+
+**HUGE Thank You to https://github.com/amitp and his amazing articles at https://www.redblobgames.com/. A lot of credit goes to him and his articles describing the pathfinding algorithms and graph theory.**
+
 This project utulizes two pathfinding algorithms built in python; Astar (A*) and Dijkstras.
 
 The A* algorithm has a weighted heuristic allowing for a dynamic balance between Greedy First-Search and Dijkstra.
@@ -7,6 +10,7 @@ The A* algorithm has a weighted heuristic allowing for a dynamic balance between
 f(n) = g(n) + h(n)
 ```
 where **f(n)** is total cost, **g(n)** is cost so far from node n to the start, **h(n)** is our heuristic function below.
+
 ### Heuristic
 
 ```sh
