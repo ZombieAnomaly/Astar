@@ -1,6 +1,7 @@
 # Astar
 
 **HUGE Thank You to https://github.com/amitp and his amazing articles at https://www.redblobgames.com/. A lot of credit goes to him and his articles describing the pathfinding algorithms and graph theory.**
+----
 
 This project utilizes two pathfinding algorithms built in python; Astar (A*) and Dijkstras.
 
