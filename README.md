@@ -2,7 +2,7 @@
 
 **HUGE Thank You to https://github.com/amitp and his amazing articles at https://www.redblobgames.com/. A lot of credit goes to him and his articles describing the pathfinding algorithms and graph theory.**
 
-This project utulizes two pathfinding algorithms built in python; Astar (A*) and Dijkstras.
+This project utilizes two pathfinding algorithms built in python; Astar (A*) and Dijkstras.
 
 The A* algorithm has a weighted heuristic allowing for a dynamic balance between Greedy First-Search and Dijkstra.
 
@@ -28,7 +28,7 @@ $   python3 pathfinding.py
 ```
 | Input | Result |
 | ------ | ------ |
-| 0 (zero) | Execute pathfinding with Dijkstras Algrothim  |
-| 1 | Execute pathfinding with the Astar Algrothim |
+| 0 (zero) | Execute pathfinding with Dijkstras Algorithm  |
+| 1 | Execute pathfinding with the Astar Algorithm |
 | 2 | Set the w1 Greed First-Search weight |
 | 3 | Set the w2 Dijkstra weight |
